@@ -1,0 +1,11 @@
+pack.name=Debug Stick UI [RP]
+pack.description=A debug stick script with UI interface. §7§oby: -PT_AxH_RV-
+
+item.ds:debug_stick=§dDebug Stick
+
+gui.debugStickUI.title=Debugging Block States
+gui.debugStickUI.blockName=Name: %s
+gui.debugStickUI.position=Position: %s %s %s
+gui.debugStickUI.redstonePower=Redstone Power: %s
+gui.debugStickUI.unpowerable=§cunpowerable§r
+gui.debugStickUI.blockTags=Tags:

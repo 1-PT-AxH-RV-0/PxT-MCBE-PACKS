@@ -1,0 +1,15 @@
+pack.name=Item Lore Editor [RP]
+pack.description=Add commands related to Item Lore Editing. §7§oby: -PT_AxH_RV-
+
+commands.lore.add.description=Add a line of lore to the held item.
+commands.lore.insert.description=Insert a line of lore before a specific line of the held item.
+commands.lore.set.description=Set a specific line of lore of the held item.
+commands.lore.remove.description=Remove a specific line of lore from the held item.
+commands.lore.removeall.description=Remove all lore from the held item.
+
+commands.lore.add.success=Lore "%s§r" has been added to the end of the held item's lore.
+commands.lore.insert.success=Lore "%s§r" has been inserted before line %s of the held item's lore.
+commands.lore.set.success=Lore of line %s on the held item has been setted to "%s§r".
+commands.lore.remove.success=Lore of line %s on the held item has been removed.
+commands.lore.removeall.success=All lore on the held item has been removed.
+commands.lore.doesNotExist=Line %s lore does not exist on the held item, operation cannot be performed.

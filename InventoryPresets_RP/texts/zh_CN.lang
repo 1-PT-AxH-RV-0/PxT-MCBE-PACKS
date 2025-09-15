@@ -1,0 +1,16 @@
+pack.name=物品栏预设 [RP]
+pack.description=添加物品栏预设相关命令。 §7§oby: -PT_AxH_RV-
+
+commands.ip.save.description=保存物品栏。
+commands.ip.load.description=加载物品栏预设。
+commands.ip.delete.description=删除物品栏预设。
+commands.ip.listall.description=列出当前的所有物品栏预设。
+commands.ip.id.description=查看自己的唯一 ID。
+
+commands.ip.save.success=当前物品栏已保存为 "%s"。
+commands.ip.save.clear.success=当前物品栏已保存为 "%s" 并清空。
+commands.ip.load.success=已加载名为 "%s" 的物品栏预设。
+commands.ip.doesNotExist=名为 "%s" 的物品栏预设不存在。（使用 ip:listall 以查看所有存在的物品栏预设。）
+commands.ip.delete.success=已删除名为 "%s" 的物品栏预设。
+commands.ip.listall.success=当前的所有存在的物品栏预设（共 %s 个）：
+commands.ip.id.success=你的 ID：%s。

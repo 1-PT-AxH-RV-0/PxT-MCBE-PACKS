@@ -1,0 +1,9 @@
+{
+  "name": "sapi_packs",
+  "version": "1.0.0",
+  "description": "一些我的 SAPI 行为包。",
+  "author": "-PT_AxH_RV-",
+  "scripts": {
+    "format": "prettier --write \"./**/*.json\" \"./*/scripts/**/*.js\""
+  }
+}

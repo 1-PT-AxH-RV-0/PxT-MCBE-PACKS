@@ -1,0 +1,11 @@
+pack.name=UI调试棒 [RP]
+pack.description=一个带 UI 界面的调试棒脚本。 §7§oby: -PT_AxH_RV-
+
+item.ds:debug_stick=§d调试棒
+
+gui.debugStickUI.title=调试方块状态
+gui.debugStickUI.blockName=名称：%s
+gui.debugStickUI.position=坐标：%s %s %s
+gui.debugStickUI.redstonePower=红石信号强度：%s
+gui.debugStickUI.unpowerable=§c不可充能§r
+gui.debugStickUI.blockTags=标签：

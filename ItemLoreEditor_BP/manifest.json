@@ -1,0 +1,32 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["-PT_AxH_RV-"]
+  },
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "min_engine_version": [1, 20, 100],
+    "uuid": "83bedaf3-8565-1338-e568-a764fb778aee",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/index.js",
+      "uuid": "99aa9604-04ec-b18a-695e-15702fe4a5c1",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.1.0"
+    },
+    {
+      "uuid": "d8ceec80-18d5-4b40-abe9-c36ec73aa116",
+      "version": [1, 0, 0]
+    }
+  ]
+}

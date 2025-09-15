@@ -1,0 +1,15 @@
+pack.name=物品描述编辑器 [RP]
+pack.description=添加物品描述编辑相关命令。 §7§oby: -PT_AxH_RV-
+
+commands.lore.add.description=为手持物品添加一行描述。
+commands.lore.insert.description=为手持物品插入一行描述到指定行之前。
+commands.lore.set.description=设置手持物品的某一行描述。
+commands.lore.remove.description=移除手持物品的某一行描述。
+commands.lore.removeall.description=移除手持物品的所有描述。
+
+commands.lore.add.success=已将描述 "%s§r" 追加到手持物品的最后一行描述之后。
+commands.lore.insert.success=已将描述 "%s§r" 插入到手持物品的第 %s 行描述之前。
+commands.lore.set.success=已将手持物品的第 %s 行描述改为 "%s§r"。
+commands.lore.remove.success=已移除手持物品的第 %s 行描述。
+commands.lore.removeall.success=已移除手持物品的所有描述。
+commands.lore.doesNotExist=手持物品的第 %s 行描述不存在，无法操作。

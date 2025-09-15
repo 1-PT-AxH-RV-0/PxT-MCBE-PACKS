@@ -1,0 +1,16 @@
+pack.name=Inventory Presets [RP]
+pack.description=Add commands related to inventory presets. §7§oby: -PT_AxH_RV-
+
+commands.ip.save.description=Save the current inventory.
+Commands.ip.load.description=Load a inventory preset.
+Commands.ip.delete.description=Delete a inventory preset.
+Commands.ip.listall.description=List all currently available inventory presets.
+Commands.ip.id.description=View your unique ID.
+
+commands.ip.save.success=The current inventory has been saved as "%s".
+commands.ip.save.clear.success=The current inventory has been saved as "%s" and cleared.
+commands.ip.load.success=The inventory preset named "%s" has been loaded.
+commands.ip.doesNotExist=The inventory preset named "%s" does not exist. (Use ip:listall to view all available inventory presets.)
+commands.ip.delete.success=The inventory preset named "%s" has been deleted.
+commands.ip.listall.success=All currently available inventory presets (total: %s):
+commands.ip.id.success=Your ID: %s.
