@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["-PT_AxH_RV-"]
+  },
+  "header": {
+    "name": "GetBlockStates",
+    "description": "(test)",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 100],
+    "uuid": "ca5d0f3c-3076-45c0-86a4-f703c249e5a5"
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/index.js",
+      "uuid": "8c960262-874c-4a1e-ac5c-a68170f15253",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.1.0"
+    }
+  ]
+}

@@ -173,10 +173,13 @@ system.beforeEvents.startup.subscribe((ev) => {
         JSON.parse(player.getDynamicProperty('presetNames') ?? '[]')
       );
       if (!presetNames.has(name)) {
-        player.sendCommandFeedback({
-          translate: `commands.ip.doesNotExist`,
-          with: [name]
-        }, true);
+        player.sendCommandFeedback(
+          {
+            translate: `commands.ip.doesNotExist`,
+            with: [name]
+          },
+          true
+        );
         return;
       }
 
@@ -273,10 +276,13 @@ system.beforeEvents.startup.subscribe((ev) => {
         JSON.parse(player.getDynamicProperty('presetNames') ?? '[]')
       );
       if (!presetNames.has(name)) {
-        player.sendCommandFeedback({
-          translate: `commands.ip.doesNotExist`,
-          with: [name]
-        }, true);
+        player.sendCommandFeedback(
+          {
+            translate: `commands.ip.doesNotExist`,
+            with: [name]
+          },
+          true
+        );
         return;
       }
 

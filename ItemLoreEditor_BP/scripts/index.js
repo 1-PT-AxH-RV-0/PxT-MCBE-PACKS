@@ -57,12 +57,15 @@ system.beforeEvents.startup.subscribe((ev) => {
       const player = orign.sourceEntity;
       const item = player.getComponent('equippable').getEquipment('Mainhand');
       const itemLore = item.getLore() ?? [];
-      
+
       if (itemLore.length - 1 < lineIndex) {
-        player.sendCommandFeedback({
-          translate: 'commands.lore.doesNotExist',
-          with: [String(lineIndex)]
-        }, true);
+        player.sendCommandFeedback(
+          {
+            translate: 'commands.lore.doesNotExist',
+            with: [String(lineIndex)]
+          },
+          true
+        );
         return;
       }
 
@@ -92,12 +95,15 @@ system.beforeEvents.startup.subscribe((ev) => {
       const player = orign.sourceEntity;
       const item = player.getComponent('equippable').getEquipment('Mainhand');
       const itemLore = item.getLore() ?? [];
-      
+
       if (itemLore.length - 1 < lineIndex) {
-        player.sendCommandFeedback({
-          translate: 'commands.lore.doesNotExist',
-          with: [String(lineIndex)]
-        }, true);
+        player.sendCommandFeedback(
+          {
+            translate: 'commands.lore.doesNotExist',
+            with: [String(lineIndex)]
+          },
+          true
+        );
         return;
       }
 
@@ -124,12 +130,15 @@ system.beforeEvents.startup.subscribe((ev) => {
       const player = orign.sourceEntity;
       const item = player.getComponent('equippable').getEquipment('Mainhand');
       const itemLore = item.getLore() ?? [];
-      
+
       if (itemLore.length - 1 < lineIndex) {
-        player.sendCommandFeedback({
-          translate: 'commands.lore.doesNotExist',
-          with: [String(lineIndex)]
-        }, true);
+        player.sendCommandFeedback(
+          {
+            translate: 'commands.lore.doesNotExist',
+            with: [String(lineIndex)]
+          },
+          true
+        );
         return;
       }
 
