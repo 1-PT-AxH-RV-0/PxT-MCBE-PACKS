@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["-PT_AxH_RV-"]
+  },
+  "header": {
+    "description": "Supplement to British English translation.",
+    "name": "British English Supplement",
+    "uuid": "c8a36729-938c-4a80-a6b9-9603a1f962c5",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 20]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "6c456852-5f39-4226-b3c3-e885ddbe186f",
+      "version": [1, 0, 0]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "name": "sapi_packs",
-  "version": "1.0.0",
-  "description": "一些我的 SAPI 行为包。",
+  "name": "PxT_Packs",
+  "version": "2.0.0",
+  "description": "一些我的 MCBE 附加包。",
   "author": "-PT_AxH_RV-",
   "scripts": {
     "format": "prettier --write \"./**/*.json\" \"./*/scripts/**/*.js\""
