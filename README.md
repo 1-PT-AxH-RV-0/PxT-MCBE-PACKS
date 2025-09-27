@@ -7,6 +7,8 @@
 - DebugStickUI: 添加了带 UI 的调试棒，不仅包含编辑方块状态的功能，还有修改坐标、修改方块、获取物品的功能。
 - BritishEnglishSupplement: 补充一些技术性方块的英式英语翻译（e.g. tile.bubble_column.name →
 Bubble Column），并修改了一些不准确翻译（e.g. Crops(tile.wheat.name) → Wheat Crops）。
+- MissingTileBlockTextureSupplement: 为一些因未在 block.json 中声明纹理而使用 missing_tile.png
+占位符纹理的方块，如未知（minecraft:unknown）、数据更新方块（minecraft:info_update）等添加了纹理，以便于区分。
 - GetBlockStates: （测试用）获取所有方块的方块状态及其可用值，并以 JSON 字符串的格式输出至控制台。
 
 ## 文件夹命名规范

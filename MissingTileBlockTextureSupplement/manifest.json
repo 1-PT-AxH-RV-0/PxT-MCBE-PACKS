@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["-PT_AxH_RV-"]
+  },
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "9a676a1a-97b0-44e5-8af0-7e915644bd81",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 100]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "59f208c5-ffe8-467b-9f96-4fa7b5bd51c7",
+      "version": [1, 0, 0]
+    }
+  ]
+}

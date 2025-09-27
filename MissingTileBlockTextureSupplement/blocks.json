@@ -1,0 +1,23 @@
+{
+  "format_version": [1, 1, 0],
+  "info_update": {
+    "textures": "info_update",
+    "sound": "grass"
+  },
+  "info_update2": {
+    "textures": "info_update2",
+    "sound": "grass"
+  },
+  "moving_block": {
+    "textures": "moving_block",
+    "sound": "stone"
+  },
+  "unknown": {
+    "textures": "unknown",
+    "sound": "gravel"
+  },
+  "reserved6": {
+    "textures": "reserved6",
+    "sound": "stone"
+  }
+}

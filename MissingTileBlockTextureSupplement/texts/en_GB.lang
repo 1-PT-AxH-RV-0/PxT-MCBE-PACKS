@@ -1,0 +1,2 @@
+pack.name=Missing Tile Block Texture Supplement
+pack.description=Adds textures for blocks that use the missing_tile.png placeholder due to undeclared textures in block.json, such as unknown (minecraft:unknown), info update (minecraft:info_update), etc., to facilitate distinction. §7§oby: -PT_AxH_RV-

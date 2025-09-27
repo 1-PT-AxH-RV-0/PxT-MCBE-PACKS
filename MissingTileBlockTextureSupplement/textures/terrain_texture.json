@@ -1,0 +1,23 @@
+{
+  "resource_pack_name": "TechnicalBlockTextures",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "info_update": {
+      "textures": "textures/blocks/info_update"
+    },
+    "info_update2": {
+      "textures": "textures/blocks/info_update2"
+    },
+    "moving_block": {
+      "textures": "textures/blocks/moving_block"
+    },
+    "unknown": {
+      "textures": "textures/blocks/unknown"
+    },
+    "reserved6": {
+      "textures": "textures/blocks/reserved6"
+    }
+  }
+}
