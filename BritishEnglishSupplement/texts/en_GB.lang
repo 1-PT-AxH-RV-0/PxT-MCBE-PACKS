@@ -114,3 +114,13 @@ tile.deprecated_purpur_block_2.name=Smooth Purpur
 
 item.compound.sugar.name=Sugar
 item.compound.ink.name=Ink
+item.medicine..name=Unknown Medicine
+item.compound..name=Unknown Compound
+item.glow_stick.black.name=Black Glow Stick
+item.glow_stick.silver.name=Light Gray Glow Stick
+
+tipped_arrow.effect.empty=Arrow of Splashing
+tipped_arrow.effect.mundane=Tipped Arrow (Mundane)
+tipped_arrow.effect.mundane.extended=Tipped Arrow (Extended Mundane)
+tipped_arrow.effect.thick=Tipped Arrow (Thick)
+tipped_arrow.effect.awkward=Tipped Arrow (Awkward)
