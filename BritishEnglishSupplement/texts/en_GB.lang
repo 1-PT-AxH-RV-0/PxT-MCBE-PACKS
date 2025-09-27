@@ -1,6 +1,7 @@
 tile.flowing_water.name=Flowing Water
 tile.flowing_lava.name=Flowing Lava
 tile.piston_arm_collision.name=Piston Head
+tile.sticky_piston_arm_collision.name=Sticky Piston Head
 tile.double_stone_slab.stone.name=Smooth Stone Double Slab
 tile.wheat.name=Wheat Crops
 tile.lit_furnace.name=Lit Furnace
@@ -110,3 +111,6 @@ tile.double_stone_slab4.stone.name=Stone Double Slab
 tile.double_stone_slab4.cut_sandstone.name=Cut Sandstone Double Slab
 tile.double_stone_slab4.cut_red_sandstone.name=Cut Red Sandstone Double Slab
 tile.deprecated_purpur_block_2.name=Smooth Purpur
+
+item.compound.sugar.name=Sugar
+item.compound.ink.name=Ink
