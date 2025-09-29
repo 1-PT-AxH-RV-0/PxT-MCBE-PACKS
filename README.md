@@ -24,7 +24,7 @@
 
 ## 关于 pack\_icon.png
 
-- BritishEnglishSupplement 和 MissingTileBlockTextureSupplement 的 pack\_icon.png 参考[方块标准视图制作](https://zh.minecraft.wiki/w/Help:标准视图#使用Blockbench)使用 BlockBench 制作。其中 MissingTileBlockTextureSupplement 中的方块是「涂蜡的锈蚀切制铜对层台阶」（MCBE 中 ID 最长的方块），使用的纹理为[原版优化 by wtitemilk (Bilibili)](https://m.bilibili.com/video/BV1EgYQz5E7a)。
+- BritishEnglishSupplement 和 MissingTileBlockTextureSupplement 的 pack\_icon.png 参考[方块标准视图制作](https://zh.minecraft.wiki/w/Help:标准视图#使用Blockbench)使用 BlockBench 制作。其中 MissingTileBlockTextureSupplement 中的方块是「涂蜡的锈蚀切制铜双层台阶」（MCBE 中 ID 最长的方块），使用的纹理为[原版优化 by wtitemilk (Bilibili)](https://m.bilibili.com/video/BV1EgYQz5E7a)。
 - ItemLoreEditor 和 InventoryPresets 的 pack\_icon.png 使用 [MC 标题生成器](https://ewanhowell.com/plugins/minecraft-title-generator).
 - DebugStickUI 的 pack\_icon.png 是原版木棍纹理的 64px 版本。
 - GetBlockStates 因为不是正式包所以没有 pack\_icon.png。
