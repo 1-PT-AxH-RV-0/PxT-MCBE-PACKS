@@ -5,10 +5,8 @@
 - InventoryPresets: 物品栏预设。以自定义命令的形式添加了操作物品栏工具方便地管理物品栏。
 - ItemLoreEditor: 添加修改物品描述（Lore）的相关自定义命令，以在不更改 NBT 的情况下编辑物品描述。
 - DebugStickUI: 添加了带 UI 的调试棒，不仅包含编辑方块状态的功能，还有修改坐标、修改方块、获取物品的功能。
-- BritishEnglishSupplement: 补充一些技术性方块的英式英语翻译（e.g. tile.bubble_column.name →
-Bubble Column），并修改了一些不准确翻译（e.g. Crops(tile.wheat.name) → Wheat Crops）。
-- MissingTileBlockTextureSupplement: 为一些因未在 block.json 中声明纹理而使用 missing_tile.png
-占位符纹理的方块，如未知（minecraft:unknown）、数据更新方块（minecraft:info_update）等添加了纹理，以便于区分。
+- BritishEnglishSupplement: 补充一些技术性方块的英式英语翻译（e.g. tile.bubble\_column.name → Bubble Column），并修改了一些不准确翻译（e.g. Crops(tile.wheat.name) → Wheat Crops）。
+- MissingTileBlockTextureSupplement: 为一些因未在 block.json 中声明纹理而使用 missing_tile.png 占位符纹理的方块，如未知（minecraft:unknown）、数据更新方块（minecraft:info_update）等添加了纹理，以便于区分。
 - GetBlockStates: （测试用）获取所有方块的方块状态及其可用值，并以 JSON 字符串的格式输出至控制台。
 
 ## 文件夹命名规范
@@ -19,9 +17,13 @@ Bubble Column），并修改了一些不准确翻译（e.g. Crops(tile.wheat.nam
 
 ## Make
 
-- 使用 `make` 或 `make all` 以生成各个 pack 的 .mcpack（若有 pack 互相依赖，则会合并生成 .mcaddon），\
-同时生成包含所有包的 ALL\_PACKS.mcaddon 文件。
+- 使用 `make` 或 `make all` 以生成各个 pack 的 .mcpack（若有 pack 互相依赖，则会合并生成 .mcaddon），同时生成包含所有包的 ALL\_PACKS.mcaddon 文件。
 - 使用 `make packs` 以只生成 .mcpack（互相依赖的包仍然会合并为 .mcaddon）。
 - 使用 `make addon` 以只生成 ALL\_PACKS.mcaddon 文件。
 - 使用 `make clean` 以清除生成的 .mcpack 和 .mcaddon。
 
+## 关于 pack_icon.png
+- BritishEnglishSupplement 和 MissingTileBlockTextureSupplement 的 pack_icon.png 参考[方块标准视图制作](https://zh.minecraft.wiki/w/Help:标准视图#使用Blockbench)使用 BlockBench 制作。其中 MissingTileBlockTextureSupplement 中的方块是「涂蜡的锈蚀切制铜对层台阶」（MCBE 中 ID 最长的方块），使用的纹理为[原版优化 by wtitemilk (Bilibili)](https://m.bilibili.com/video/BV1EgYQz5E7a)。
+- ItemLoreEditor 和 InventoryPresets 的pack_icon.png 使用 [MC 标题生成器](https://ewanhowell.com/plugins/minecraft-title-generator).
+- DebugStickUI 的 pack_icon.png 是原版木棍纹理的 64px 版本。
+- GetBlockStates 因为不是正式包所以没有 pack_icon.png。
