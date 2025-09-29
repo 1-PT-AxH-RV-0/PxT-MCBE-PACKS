@@ -1,6 +1,7 @@
 tile.flowing_water.name=Flowing Water
 tile.flowing_lava.name=Flowing Lava
 tile.piston_arm_collision.name=Piston Head
+tile.redstone_wire.name=Redstone Wire
 tile.sticky_piston_arm_collision.name=Sticky Piston Head
 tile.double_stone_slab.stone.name=Smooth Stone Double Slab
 tile.wheat.name=Wheat Crops
