@@ -1,2 +1,0 @@
-pack.name=missing tile方块纹理补充
-pack.description=为一些因未在 block.json 中声明纹理而使用 missing_tile.png 占位符纹理的方块，如未知（minecraft:unknown）、数据更新方块（minecraft:info_update）等添加了纹理，以便于区分。 §7§oby: -PT_AxH_RV-
