@@ -4,6 +4,81 @@
   "padding": 8,
   "num_mip_levels": 4,
   "texture_data": {
+    "bed": {
+      "textures": "textures/blocks/bed"
+    },
+    "standing_sign": {
+      "textures": "textures/blocks/signs/standing_sign"
+    },
+    "wall_sign": {
+      "textures": "textures/blocks/signs/wall_sign"
+    },
+    "spruce_standing_sign": {
+      "textures": "textures/blocks/signs/spruce_standing_sign"
+    },
+    "spruce_wall_sign": {
+      "textures": "textures/blocks/signs/spruce_standing_sign"
+    },
+    "birch_standing_sign": {
+      "textures": "textures/blocks/signs/birch_standing_sign"
+    },
+    "birch_wall_sign": {
+      "textures": "textures/blocks/signs/birch_wall_sign"
+    },
+    "jungle_standing_sign": {
+      "textures": "textures/blocks/signs/jungle_standing_sign"
+    },
+    "jungle_wall_sign": {
+      "textures": "textures/blocks/signs/jungle_wall_sign"
+    },
+    "acacia_standing_sign": {
+      "textures": "textures/blocks/signs/acacia_standing_sign"
+    },
+    "acacia_wall_sign": {
+      "textures": "textures/blocks/signs/acacia_wall_sign"
+    },
+    "darkoak_standing_sign": {
+      "textures": "textures/blocks/signs/darkoak_standing_sign"
+    },
+    "darkoak_wall_sign": {
+      "textures": "textures/blocks/signs/darkoak_wall_sign"
+    },
+    "mangrove_standing_sign": {
+      "textures": "textures/blocks/signs/mangrove_standing_sign"
+    },
+    "mangrove_wall_sign": {
+      "textures": "textures/blocks/signs/mangrove_wall_sign"
+    },
+    "cherry_standing_sign": {
+      "textures": "textures/blocks/signs/cherry_standing_sign"
+    },
+    "cherry_wall_sign": {
+      "textures": "textures/blocks/signs/cherry_wall_sign"
+    },
+    "pale_oak_standing_sign": {
+      "textures": "textures/blocks/signs/pale_oak_standing_sign"
+    },
+    "pale_oak_wall_sign": {
+      "textures": "textures/blocks/signs/pale_oak_wall_sign"
+    },
+    "bamboo_standing_sign": {
+      "textures": "textures/blocks/signs/bamboo_standing_sign"
+    },
+    "bamboo_wall_sign": {
+      "textures": "textures/blocks/signs/bamboo_wall_sign"
+    },
+    "crimson_standing_sign": {
+      "textures": "textures/blocks/signs/crimson_standing_sign"
+    },
+    "crimson_wall_sign": {
+      "textures": "textures/blocks/signs/crimson_wall_sign"
+    },
+    "warped_standing_sign": {
+      "textures": "textures/blocks/signs/warped_standing_sign"
+    },
+    "warped_wall_sign": {
+      "textures": "textures/blocks/signs/warped_wall_sign"
+    },
     "piston_arm_collision": {
       "textures": "textures/blocks/piston_arm_collision"
     },

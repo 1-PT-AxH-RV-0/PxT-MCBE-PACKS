@@ -1,5 +1,80 @@
 {
   "format_version": [1, 1, 0],
+  "bed": {
+    "textures": "bed"
+  },
+  "standing_sign": {
+    "textures": "standing_sign"
+  },
+  "wall_sign": {
+    "textures": "wall_sign"
+  },
+  "spruce_standing_sign": {
+    "textures": "spruce_standing_sign"
+  },
+  "spruce_wall_sign": {
+    "textures": "spruce_standing_sign"
+  },
+  "birch_standing_sign": {
+    "textures": "birch_standing_sign"
+  },
+  "birch_wall_sign": {
+    "textures": "birch_wall_sign"
+  },
+  "jungle_standing_sign": {
+    "textures": "jungle_standing_sign"
+  },
+  "jungle_wall_sign": {
+    "textures": "jungle_wall_sign"
+  },
+  "acacia_standing_sign": {
+    "textures": "acacia_standing_sign"
+  },
+  "acacia_wall_sign": {
+    "textures": "acacia_wall_sign"
+  },
+  "darkoak_standing_sign": {
+    "textures": "darkoak_standing_sign"
+  },
+  "darkoak_wall_sign": {
+    "textures": "darkoak_wall_sign"
+  },
+  "mangrove_standing_sign": {
+    "textures": "mangrove_standing_sign"
+  },
+  "mangrove_wall_sign": {
+    "textures": "mangrove_wall_sign"
+  },
+  "cherry_standing_sign": {
+    "textures": "cherry_standing_sign"
+  },
+  "cherry_wall_sign": {
+    "textures": "cherry_wall_sign"
+  },
+  "pale_oak_standing_sign": {
+    "textures": "pale_oak_standing_sign"
+  },
+  "pale_oak_wall_sign": {
+    "textures": "pale_oak_wall_sign"
+  },
+  "bamboo_standing_sign": {
+    "textures": "bamboo_standing_sign"
+  },
+  "bamboo_wall_sign": {
+    "textures": "bamboo_wall_sign"
+  },
+  "crimson_standing_sign": {
+    "textures": "crimson_standing_sign"
+  },
+  "crimson_wall_sign": {
+    "textures": "crimson_wall_sign"
+  },
+  "warped_standing_sign": {
+    "textures": "warped_standing_sign"
+  },
+  "warped_wall_sign": {
+    "textures": "warped_wall_sign"
+  },
   "piston_arm_collision": {
     "textures": "piston_arm_collision",
     "sound": "stone"
