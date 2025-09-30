@@ -27,6 +27,7 @@
 - reserved6.png、unknown.png、info\_update.png 和 info\_update2.png 为原版纹理修改，文字的字体为 Minecraft-Seven（两个数据更新方块因为空间不够而做了一些修改）。
 - moving\_block.png 和 piston\_arm\_collision.png 是基于[纹理更新补丁包 by Bilibili@云飞羊Rainvay](https://m.bilibili.com/video/BV1RY4y1M7tP)及原版纹理修改而来。
 - sticky\_piston\_arm\_collision.png 是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的。
+- signs/* 与 bed.png 取自 Wiki。（做手持模型太复杂了）
 
 ## 关于 pack\_icon.png
 
