@@ -17,7 +17,7 @@
       "textures": "textures/blocks/signs/spruce_standing_sign"
     },
     "spruce_wall_sign": {
-      "textures": "textures/blocks/signs/spruce_standing_sign"
+      "textures": "textures/blocks/signs/spruce_wall_sign"
     },
     "birch_standing_sign": {
       "textures": "textures/blocks/signs/birch_standing_sign"

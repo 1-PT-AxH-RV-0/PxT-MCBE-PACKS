@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.bed.first_person": {
+      "loop": true,
+      "bones": {
+        "rightItem": {
+          "scale": 0.3,
+          "rotation": [ 190, 90, 100 ],
+          "position": [ -4, 2, 0 ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.standing_sign.other_person": {
+      "loop": true,
+      "bones": {
+        "rightItem": {
+          "scale": 0.4,
+          "rotation": [ 0, 0, 180 ],
+          "position": [ 0, -2, -1 ]
+        }
+      }
+    }
+  }
+}
