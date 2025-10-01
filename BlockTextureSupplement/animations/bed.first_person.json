@@ -6,8 +6,8 @@
       "bones": {
         "rightItem": {
           "scale": 0.3,
-          "rotation": [ 190, 90, 100 ],
-          "position": [ -4, 2, 0 ]
+          "rotation": [190, 90, 100],
+          "position": [-4, 2, 0]
         }
       }
     }
