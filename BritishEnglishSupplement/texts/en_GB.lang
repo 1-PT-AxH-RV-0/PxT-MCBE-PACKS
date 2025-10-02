@@ -122,8 +122,28 @@ item.compound..name=Unknown Compound
 item.glow_stick.black.name=Black Glow Stick
 item.glow_stick.silver.name=Light Gray Glow Stick
 
+item.sparkler.black.name=Black Sparkler
+item.sparkler.brown.name=Brown Sparkler
+item.sparkler.cyan.name=Cyan Sparkler
+item.sparkler.silver.name=Light Gray Sparkler
+item.sparkler.gray.name=Gray Sparkler
+item.sparkler.pink.name=Pink Sparkler
+item.sparkler.lime.name=Lime Sparkler
+item.sparkler.yellow.name=Yellow Sparkler
+item.sparkler.lightBlue.name=Light Blue Sparkler
+item.sparkler.magenta.name=Magenta Sparkler
+item.sparkler.white.name=White Sparkler
+
 tipped_arrow.effect.empty=Arrow of Splashing
 tipped_arrow.effect.mundane=Tipped Arrow (Mundane)
 tipped_arrow.effect.mundane.extended=Tipped Arrow (Extended Mundane)
 tipped_arrow.effect.thick=Tipped Arrow (Thick)
 tipped_arrow.effect.awkward=Tipped Arrow (Awkward)
+
+entity.tripod_camera.name=Camera
+entity.elder_guardian_ghost.name=Elder Guardian Ghost
+entity.player.name=Player
+entity.npc.name=NPC
+entity.agent.name=Agent
+
+trim_pattern..name=Unknown Pattern
