@@ -145,5 +145,6 @@ entity.elder_guardian_ghost.name=Elder Guardian Ghost
 entity.player.name=Player
 entity.npc.name=NPC
 entity.agent.name=Agent
+entity.tnt.name=Primed TNT
 
-trim_pattern..name=Unknown Pattern
+trim_pattern..name=Unspecified Pattern
