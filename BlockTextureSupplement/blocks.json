@@ -126,6 +126,18 @@
   "yellow_candle_cake": {
     "textures": "yellow_candle_cake"
   },
+  "powered_repeater": {
+    "carried_textures": "repeater_floor_on_carried"
+  },
+  "unpowered_repeater": {
+    "carried_textures": "repeater_floor_off_carried"
+  },
+  "powered_comparator": {
+    "carried_textures": "comparator_floor_on_carried"
+  },
+  "unpowered_comparator": {
+    "carried_textures": "comparator_floor_off_carried"
+  },
   "piston_arm_collision": {
     "textures": "piston_arm_collision",
     "sound": "stone"

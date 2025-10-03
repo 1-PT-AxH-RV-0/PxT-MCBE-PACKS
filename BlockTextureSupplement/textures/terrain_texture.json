@@ -130,6 +130,18 @@
     "yellow_candle_cake": {
       "textures": "textures/blocks/candle_cake/yellow_candle_cake"
     },
+    "repeater_floor_on_carried": {
+      "textures": "textures/blocks/repeater_floor_on_carried"
+    },
+    "repeater_floor_off_carried": {
+      "textures": "textures/blocks/repeater_floor_off_carried"
+    },
+    "comparator_floor_on_carried": {
+      "textures": "textures/blocks/comparator_floor_on_carried"
+    },
+    "comparator_floor_off_carried": {
+      "textures": "textures/blocks/comparator_floor_off_carried"
+    },
     "piston_arm_collision": {
       "textures": "textures/blocks/piston_arm_collision"
     },
