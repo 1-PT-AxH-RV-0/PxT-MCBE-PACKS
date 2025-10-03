@@ -75,6 +75,57 @@
   "warped_wall_sign": {
     "textures": "warped_wall_sign"
   },
+  "black_candle_cake": {
+    "textures": "black_candle_cake"
+  },
+  "brown_candle_cake": {
+    "textures": "brown_candle_cake"
+  },
+  "candle_cake": {
+    "textures": "candle_cake"
+  },
+  "blue_candle_cake": {
+    "textures": "blue_candle_cake"
+  },
+  "cyan_candle_cake": {
+    "textures": "cyan_candle_cake"
+  },
+  "gray_candle_cake": {
+    "textures": "gray_candle_cake"
+  },
+  "green_candle_cake": {
+    "textures": "green_candle_cake"
+  },
+  "light_blue_candle_cake": {
+    "textures": "light_blue_candle_cake"
+  },
+  "light_gray_candle_cake": {
+    "textures": "light_gray_candle_cake"
+  },
+  "lime_candle_cake": {
+    "textures": "lime_candle_cake"
+  },
+  "orange_candle_cake": {
+    "textures": "orange_candle_cake"
+  },
+  "magenta_candle_cake": {
+    "textures": "magenta_candle_cake"
+  },
+  "purple_candle_cake": {
+    "textures": "purple_candle_cake"
+  },
+  "pink_candle_cake": {
+    "textures": "pink_candle_cake"
+  },
+  "white_candle_cake": {
+    "textures": "white_candle_cake"
+  },
+  "red_candle_cake": {
+    "textures": "red_candle_cake"
+  },
+  "yellow_candle_cake": {
+    "textures": "yellow_candle_cake"
+  },
   "piston_arm_collision": {
     "textures": "piston_arm_collision",
     "sound": "stone"
