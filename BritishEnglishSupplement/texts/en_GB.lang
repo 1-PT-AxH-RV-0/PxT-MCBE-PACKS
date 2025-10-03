@@ -146,5 +146,6 @@ entity.player.name=Player
 entity.npc.name=NPC
 entity.agent.name=Agent
 entity.tnt.name=Primed TNT
+entity.ominous_item_spawner.name=Ominous Item Spawner
 
 trim_pattern..name=Unspecified Pattern
