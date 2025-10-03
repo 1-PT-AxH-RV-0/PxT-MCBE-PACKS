@@ -29,7 +29,7 @@
 - sticky\_piston\_arm\_collision.png 是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的。
 - signs/* 与 bed.png 取自 Wiki。（手持模型是我自己重做的，因为找不到原版的模型文件）
 - 插上蜡烛的蛋糕是由原版纹理拼合的。（为了加上蜡烛引线的这个像素点，改为 32px）
-- 红石中继器/比较器是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的，文字的字体为 Minecraft-Seven（为避免奇数导致的强迫症问题，所以做了点修改）。
+- 红石中继器/比较器是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的，文字的字体为 Minecraft-Seven（做了一点改动，以避免奇数尺寸的强迫症问题）。
 
 ## 关于 pack\_icon.png
 
