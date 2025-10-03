@@ -1,0 +1,17 @@
+pack.name=Technical Items & Blocks [RP]
+pack.description=Technical blocks and items have been added to the item categories in the creative inventory. §7§oby: -PT_AxH_RV-
+
+ti:itemGroup.name.technicalItemsAndBlocks.liquids=Liquids
+ti:itemGroup.name.technicalItemsAndBlocks.stoneDoubleSlabs=Stone Double Slabs
+ti:itemGroup.name.technicalItemsAndBlocks.fires=Fires
+ti:itemGroup.name.technicalItemsAndBlocks.redstoneComponents=Redstone Components
+ti:itemGroup.name.technicalItemsAndBlocks.plants=Plants
+ti:itemGroup.name.technicalItemsAndBlocks.litFurnaces=Lit Furnaces
+ti:itemGroup.name.technicalItemsAndBlocks.signs=Signs
+ti:itemGroup.name.technicalItemsAndBlocks.doors=Doors
+ti:itemGroup.name.technicalItemsAndBlocks.portals=Portals
+ti:itemGroup.name.technicalItemsAndBlocks.woodenDoubleSlabs=Wooden Double Slabs
+ti:itemGroup.name.technicalItemsAndBlocks.coralWallFans=Coral Wall Fans
+ti:itemGroup.name.technicalItemsAndBlocks.candleCakes=Candle Cakes
+ti:itemGroup.name.technicalItemsAndBlocks.others=Others
+ti:itemGroup.name.technicalItemsAndBlocks.items=Items

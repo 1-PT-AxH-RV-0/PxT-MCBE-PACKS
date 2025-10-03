@@ -1,0 +1,17 @@
+pack.name=技术性方块与物品 [RP]
+pack.description=把技术性方块与物品添加到了创造模式物品栏中。 §7§oby: -PT_AxH_RV-
+
+ti:itemGroup.name.technicalItemsAndBlocks.liquids=液体
+ti:itemGroup.name.technicalItemsAndBlocks.stoneDoubleSlabs=石质双层台阶
+ti:itemGroup.name.technicalItemsAndBlocks.fires=火
+ti:itemGroup.name.technicalItemsAndBlocks.redstoneComponents=红石元件
+ti:itemGroup.name.technicalItemsAndBlocks.plants=植物
+ti:itemGroup.name.technicalItemsAndBlocks.litFurnaces=燃烧的熔炉
+ti:itemGroup.name.technicalItemsAndBlocks.signs=告示牌
+ti:itemGroup.name.technicalItemsAndBlocks.doors=门
+ti:itemGroup.name.technicalItemsAndBlocks.portals=传送门
+ti:itemGroup.name.technicalItemsAndBlocks.woodenDoubleSlabs=木质双层台阶
+ti:itemGroup.name.technicalItemsAndBlocks.coralWallFans=墙上的珊瑚扇
+ti:itemGroup.name.technicalItemsAndBlocks.candleCakes=播上蜡烛的蛋糕
+ti:itemGroup.name.technicalItemsAndBlocks.others=其他
+ti:itemGroup.name.technicalItemsAndBlocks.items=物品

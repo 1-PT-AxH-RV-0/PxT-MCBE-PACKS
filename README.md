@@ -6,7 +6,8 @@
 - ItemLoreEditor: 添加修改物品描述（Lore）的相关自定义命令，以在不更改 NBT 的情况下编辑物品描述。
 - DebugStickUI: 添加了带 UI 的调试棒，不仅包含编辑方块状态的功能，还有修改坐标、修改方块、获取物品的功能。
 - BritishEnglishSupplement: 补充一些技术性方块的英式英语翻译（e.g. tile.bubble\_column.name → Bubble Column），并修改了一些不准确翻译（e.g. Crops(tile.wheat.name) → Wheat Crops）。
-- BlockTextureSupplement: 为一些因未在 blocks.json 中声明纹理而使用占位符纹理或默认纹理的方块，如未知（minecraft\:unknown）、数据更新方块（minecraft\:info\_update）、活塞头（minecraft\:piston\_arm\_collision）等添加了纹理，以便于区分。 
+- BlockTextureSupplement: 为一些意外地使用占位符纹理或默认纹理的方块，如未知（minecraft\:unknown）、数据更新方块（minecraft\:info\_update）、活塞头（minecraft\:piston\_arm\_collision）等添加了纹理，以便于区分。 
+- TechnicalItemsAndBlocks: 把一些技术性方块加入到了创造模式物品栏的「物品」分类中，以物品组的形式放在最后。
 - GetBlockStates: （测试用）获取所有方块的方块状态及其可用值，并以 JSON 字符串的格式输出至控制台。
 
 ## 文件夹命名规范
@@ -27,8 +28,8 @@
 - reserved6.png、unknown.png、info\_update.png 和 info\_update2.png 为原版纹理修改，文字的字体为 Minecraft-Seven（两个数据更新方块因为空间不够而做了一些修改）。
 - moving\_block.png 和 piston\_arm\_collision.png 是基于[纹理更新补丁包 by Bilibili@云飞羊Rainvay](https://m.bilibili.com/video/BV1RY4y1M7tP)及原版纹理修改而来。
 - sticky\_piston\_arm\_collision.png 是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的。
-- signs/* 与 bed.png 取自 Wiki。（手持模型是我自己重做的，因为找不到原版的模型文件）
-- 插上蜡烛的蛋糕是由原版纹理拼合的。（为了加上蜡烛引线的这个像素点，改为 32px）
+- signs/\* 与 bed.png 取自 Wiki。（手持模型是我自己重做的，因为找不到原版的模型文件）
+- candle\_cake/\* 是由原版纹理拼合的。（为了加上蜡烛引线的这个像素点，改为 32px）
 - 红石中继器/比较器是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的，文字的字体为 Minecraft-Seven（做了一点改动，以避免奇数尺寸的强迫症问题）。
 
 ## 关于 pack\_icon.png

@@ -1,2 +1,2 @@
 pack.name=Missing Tile Block Texture Supplement
-pack.description=Adds textures for blocks that use placeholder or default textures due to undeclared textures in blocks.json, such as unknown (minecraft:unknown), info update (minecraft:info_update), piston head (minecraft:piston_arm_collision), etc., to facilitate distinction. §7§oby: -PT_AxH_RV-
+pack.description=Adds textures for technical blocks that unexpectedly used placeholder or default textures, such as unknown (minecraft:unknown), info update (minecraft:info_update), piston head (minecraft:piston_arm_collision), etc., to facilitate distinction. §7§oby: -PT_AxH_RV-
