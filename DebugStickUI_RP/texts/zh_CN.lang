@@ -29,4 +29,6 @@ gui.debugStickUI.ops.modifyPosition=修改坐标
 gui.debugStickUI.ops.modifyPositionOffset=修改坐标（偏移）
 gui.debugStickUI.ops.modifyId=修改 ID
 gui.debugStickUI.ops.getItem=获取物品
+gui.debugStickUI.ops.break=破坏
+gui.debugStickUI.ops.remove=移除
 gui.warning=警告

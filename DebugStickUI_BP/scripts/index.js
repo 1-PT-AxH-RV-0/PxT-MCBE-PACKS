@@ -17,7 +17,6 @@ const ITEM_DOT_FORM_BLOCK_IDS = new Set([
   'brewing_stand',
   'cauldron',
   'flower_pot',
-  'chain',
   'soul_campfire',
   'wheat',
   'jungle_door',
@@ -98,6 +97,10 @@ const getItemIdFromBlock = (block) => {
 
 const setState = (block, state, value) =>
   block.setPermutation(block.permutation.withState(state, value));
+
+const breakBlock = (block) => {
+  block.dimension.runCommand(`setblock ${block.x} ${block.y} ${block.z} air destroy`);
+}
 
 const debugState = (block, player) => {
   const form = new ModalFormData()
@@ -317,6 +320,8 @@ const debugData = (block, player) => {
       .button({ translate: 'gui.debugStickUI.ops.modifyPositionOffset' })
       .button({ translate: 'gui.debugStickUI.ops.modifyId' })
       .button({ translate: 'gui.debugStickUI.ops.getItem' })
+      .button({ translate: 'gui.debugStickUI.ops.break' })
+      .button({ translate: 'gui.debugStickUI.ops.remove' })
       .show(player)
       .then((resp) => {
         if (resp.canceled) return;
@@ -334,6 +339,11 @@ const debugData = (block, player) => {
             player
               .getComponent('minecraft:inventory')
               .container.addItem(new ItemStack(getItemIdFromBlock(block)));
+            break;
+          case 4:
+            breakBlock(block);
+          case 5:
+            block.setType('minecraft:air');
         }
       });
   });

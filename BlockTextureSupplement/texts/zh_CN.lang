@@ -1,2 +1,2 @@
 pack.name=方块纹理补充
-pack.description=为一些意外地使用占位符纹理或默认纹理的方块，如未知（minecraft:unknown）、数据更新方块（minecraft:info_update）、活塞头（minecraft:piston_arm_collision）等添加了纹理，以便于区分。 §7§oby: -PT_AxH_RV-
+pack.description=为一些因未在 blocks.json 中声明纹理而使用占位符纹理或默认纹理的方块，如未知（minecraft:unknown）、数据更新方块（minecraft:info_update）、活塞头（minecraft:piston_arm_collision）等添加了纹理，以便于区分。 §7§oby: -PT_AxH_RV-

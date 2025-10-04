@@ -7,77 +7,116 @@
     "bed": {
       "textures": "textures/blocks/bed"
     },
+    "repeater_floor_on_carried": {
+      "textures": "textures/blocks/repeater_floor_on_carried"
+    },
+    "repeater_floor_off_carried": {
+      "textures": "textures/blocks/repeater_floor_off_carried"
+    },
+    "comparator_floor_on_carried": {
+      "textures": "textures/blocks/comparator_floor_on_carried"
+    },
+    "comparator_floor_off_carried": {
+      "textures": "textures/blocks/comparator_floor_off_carried"
+    },
+    "piston_arm_collision": {
+      "textures": "textures/blocks/piston_arm_collision"
+    },
+    "sticky_piston_arm_collision": {
+      "textures": "textures/blocks/sticky_piston_arm_collision"
+    },
+    "info_update": {
+      "textures": "textures/blocks/info_update"
+    },
+    "info_update2": {
+      "textures": "textures/blocks/info_update2"
+    },
+    "moving_block": {
+      "textures": "textures/blocks/moving_block"
+    },
+    "unknown": {
+      "textures": "textures/blocks/unknown"
+    },
+    "reserved6": {
+      "textures": "textures/blocks/reserved6"
+    },
+    "invisible_bedrock": {
+      "textures": "textures/blocks/invisible_bedrock"
+    },
+    "client_request_placeholder_block": {
+      "textures": "textures/blocks/client_request_placeholder_block"
+    },
     "standing_sign": {
-      "textures": "textures/blocks/signs/standing_sign"
+      "textures": "textures/blocks/sign/standing_sign"
     },
     "wall_sign": {
-      "textures": "textures/blocks/signs/wall_sign"
+      "textures": "textures/blocks/sign/wall_sign"
     },
     "spruce_standing_sign": {
-      "textures": "textures/blocks/signs/spruce_standing_sign"
+      "textures": "textures/blocks/sign/spruce_standing_sign"
     },
     "spruce_wall_sign": {
-      "textures": "textures/blocks/signs/spruce_wall_sign"
+      "textures": "textures/blocks/sign/spruce_wall_sign"
     },
     "birch_standing_sign": {
-      "textures": "textures/blocks/signs/birch_standing_sign"
+      "textures": "textures/blocks/sign/birch_standing_sign"
     },
     "birch_wall_sign": {
-      "textures": "textures/blocks/signs/birch_wall_sign"
+      "textures": "textures/blocks/sign/birch_wall_sign"
     },
     "jungle_standing_sign": {
-      "textures": "textures/blocks/signs/jungle_standing_sign"
+      "textures": "textures/blocks/sign/jungle_standing_sign"
     },
     "jungle_wall_sign": {
-      "textures": "textures/blocks/signs/jungle_wall_sign"
+      "textures": "textures/blocks/sign/jungle_wall_sign"
     },
     "acacia_standing_sign": {
-      "textures": "textures/blocks/signs/acacia_standing_sign"
+      "textures": "textures/blocks/sign/acacia_standing_sign"
     },
     "acacia_wall_sign": {
-      "textures": "textures/blocks/signs/acacia_wall_sign"
+      "textures": "textures/blocks/sign/acacia_wall_sign"
     },
     "darkoak_standing_sign": {
-      "textures": "textures/blocks/signs/darkoak_standing_sign"
+      "textures": "textures/blocks/sign/darkoak_standing_sign"
     },
     "darkoak_wall_sign": {
-      "textures": "textures/blocks/signs/darkoak_wall_sign"
+      "textures": "textures/blocks/sign/darkoak_wall_sign"
     },
     "mangrove_standing_sign": {
-      "textures": "textures/blocks/signs/mangrove_standing_sign"
+      "textures": "textures/blocks/sign/mangrove_standing_sign"
     },
     "mangrove_wall_sign": {
-      "textures": "textures/blocks/signs/mangrove_wall_sign"
+      "textures": "textures/blocks/sign/mangrove_wall_sign"
     },
     "cherry_standing_sign": {
-      "textures": "textures/blocks/signs/cherry_standing_sign"
+      "textures": "textures/blocks/sign/cherry_standing_sign"
     },
     "cherry_wall_sign": {
-      "textures": "textures/blocks/signs/cherry_wall_sign"
+      "textures": "textures/blocks/sign/cherry_wall_sign"
     },
     "pale_oak_standing_sign": {
-      "textures": "textures/blocks/signs/pale_oak_standing_sign"
+      "textures": "textures/blocks/sign/pale_oak_standing_sign"
     },
     "pale_oak_wall_sign": {
-      "textures": "textures/blocks/signs/pale_oak_wall_sign"
+      "textures": "textures/blocks/sign/pale_oak_wall_sign"
     },
     "bamboo_standing_sign": {
-      "textures": "textures/blocks/signs/bamboo_standing_sign"
+      "textures": "textures/blocks/sign/bamboo_standing_sign"
     },
     "bamboo_wall_sign": {
-      "textures": "textures/blocks/signs/bamboo_wall_sign"
+      "textures": "textures/blocks/sign/bamboo_wall_sign"
     },
     "crimson_standing_sign": {
-      "textures": "textures/blocks/signs/crimson_standing_sign"
+      "textures": "textures/blocks/sign/crimson_standing_sign"
     },
     "crimson_wall_sign": {
-      "textures": "textures/blocks/signs/crimson_wall_sign"
+      "textures": "textures/blocks/sign/crimson_wall_sign"
     },
     "warped_standing_sign": {
-      "textures": "textures/blocks/signs/warped_standing_sign"
+      "textures": "textures/blocks/sign/warped_standing_sign"
     },
     "warped_wall_sign": {
-      "textures": "textures/blocks/signs/warped_wall_sign"
+      "textures": "textures/blocks/sign/warped_wall_sign"
     },
     "black_candle_cake": {
       "textures": "textures/blocks/candle_cake/black_candle_cake"
@@ -130,38 +169,251 @@
     "yellow_candle_cake": {
       "textures": "textures/blocks/candle_cake/yellow_candle_cake"
     },
-    "repeater_floor_on_carried": {
-      "textures": "textures/blocks/repeater_floor_on_carried"
+    "oak_double_slab_side": {
+      "textures": "textures/blocks/double_slab/oak_double_slab_side"
     },
-    "repeater_floor_off_carried": {
-      "textures": "textures/blocks/repeater_floor_off_carried"
+    "oak_double_slab_top": {
+      "textures": "textures/blocks/double_slab/oak_double_slab_top"
     },
-    "comparator_floor_on_carried": {
-      "textures": "textures/blocks/comparator_floor_on_carried"
+    "spruce_double_slab_side": {
+      "textures": "textures/blocks/double_slab/spruce_double_slab_side"
     },
-    "comparator_floor_off_carried": {
-      "textures": "textures/blocks/comparator_floor_off_carried"
+    "spruce_double_slab_top": {
+      "textures": "textures/blocks/double_slab/spruce_double_slab_top"
     },
-    "piston_arm_collision": {
-      "textures": "textures/blocks/piston_arm_collision"
+    "birch_double_slab_side": {
+      "textures": "textures/blocks/double_slab/birch_double_slab_side"
     },
-    "sticky_piston_arm_collision": {
-      "textures": "textures/blocks/sticky_piston_arm_collision"
+    "birch_double_slab_top": {
+      "textures": "textures/blocks/double_slab/birch_double_slab_top"
     },
-    "info_update": {
-      "textures": "textures/blocks/info_update"
+    "jungle_double_slab_side": {
+      "textures": "textures/blocks/double_slab/jungle_double_slab_side"
     },
-    "info_update2": {
-      "textures": "textures/blocks/info_update2"
+    "jungle_double_slab_top": {
+      "textures": "textures/blocks/double_slab/jungle_double_slab_top"
     },
-    "moving_block": {
-      "textures": "textures/blocks/moving_block"
+    "acacia_double_slab_side": {
+      "textures": "textures/blocks/double_slab/acacia_double_slab_side"
     },
-    "unknown": {
-      "textures": "textures/blocks/unknown"
+    "acacia_double_slab_top": {
+      "textures": "textures/blocks/double_slab/acacia_double_slab_top"
     },
-    "reserved6": {
-      "textures": "textures/blocks/reserved6"
+    "dark_oak_double_slab_side": {
+      "textures": "textures/blocks/double_slab/dark_oak_double_slab_side"
+    },
+    "dark_oak_double_slab_top": {
+      "textures": "textures/blocks/double_slab/dark_oak_double_slab_top"
+    },
+    "red_sandstone_double_slab_side": {
+      "textures": "textures/blocks/double_slab/red_sandstone_double_slab_side"
+    },
+    "red_sandstone_double_slab_top": {
+      "textures": "textures/blocks/double_slab/red_sandstone_double_slab_top"
+    },
+    "end_stone_brick_double_slab_side": {
+      "textures": "textures/blocks/double_slab/end_stone_brick_double_slab_side"
+    },
+    "end_stone_brick_double_slab_top": {
+      "textures": "textures/blocks/double_slab/end_stone_brick_double_slab_top"
+    },
+    "mossy_stone_brick_double_slab_side": {
+      "textures": "textures/blocks/double_slab/mossy_stone_brick_double_slab_side"
+    },
+    "mossy_stone_brick_double_slab_top": {
+      "textures": "textures/blocks/double_slab/mossy_stone_brick_double_slab_top"
+    },
+    "crimson_double_slab_side": {
+      "textures": "textures/blocks/double_slab/crimson_double_slab_side"
+    },
+    "crimson_double_slab_top": {
+      "textures": "textures/blocks/double_slab/crimson_double_slab_top"
+    },
+    "warped_double_slab_side": {
+      "textures": "textures/blocks/double_slab/warped_double_slab_side"
+    },
+    "warped_double_slab_top": {
+      "textures": "textures/blocks/double_slab/warped_double_slab_top"
+    },
+    "blackstone_double_slab_side": {
+      "textures": "textures/blocks/double_slab/blackstone_double_slab_side"
+    },
+    "blackstone_double_slab_top": {
+      "textures": "textures/blocks/double_slab/blackstone_double_slab_top"
+    },
+    "polished_blackstone_slab_side": {
+      "textures": "textures/blocks/double_slab/polished_blackstone_slab_side"
+    },
+    "polished_blackstone_double_slab_top": {
+      "textures": "textures/blocks/double_slab/polished_blackstone_double_slab_top"
+    },
+    "polished_blackstone_brick_double_slab_side": {
+      "textures": "textures/blocks/double_slab/polished_blackstone_brick_double_slab_side"
+    },
+    "polished_blackstone_brick_double_slab_top": {
+      "textures": "textures/blocks/double_slab/polished_blackstone_brick_double_slab_top"
+    },
+    "double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/double_cut_copper_slab_side"
+    },
+    "exposed_double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/exposed_double_cut_copper_slab_side"
+    },
+    "weathered_double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/weathered_double_cut_copper_slab_side"
+    },
+    "oxidized_double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/oxidized_double_cut_copper_slab_side"
+    },
+    "waxed_double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/waxed_double_cut_copper_slab_side"
+    },
+    "waxed_exposed_double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/waxed_exposed_double_cut_copper_slab_side"
+    },
+    "waxed_weathered_double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/waxed_weathered_double_cut_copper_slab_side"
+    },
+    "waxed_oxidized_double_cut_copper_slab_side": {
+      "textures": "textures/blocks/double_slab/waxed_oxidized_double_cut_copper_slab_side"
+    },
+    "waxed_double_cut_copper_slab_carried_side": {
+      "textures": "textures/blocks/double_slab/waxed_double_cut_copper_slab_carried_side"
+    },
+    "waxed_exposed_double_cut_copper_slab_carried_side": {
+      "textures": "textures/blocks/double_slab/waxed_exposed_double_cut_copper_slab_carried_side"
+    },
+    "waxed_weathered_double_cut_copper_slab_carried_side": {
+      "textures": "textures/blocks/double_slab/waxed_weathered_double_cut_copper_slab_carried_side"
+    },
+    "waxed_oxidized_double_cut_copper_slab_carried_side": {
+      "textures": "textures/blocks/double_slab/waxed_oxidized_double_cut_copper_slab_carried_side"
+    },
+    "waxed_double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/waxed_double_cut_copper_slab_top"
+    },
+    "waxed_exposed_double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/waxed_exposed_double_cut_copper_slab_top"
+    },
+    "waxed_weathered_double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/waxed_weathered_double_cut_copper_slab_top"
+    },
+    "waxed_oxidized_double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/waxed_oxidized_double_cut_copper_slab_top"
+    },
+    "double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/double_cut_copper_slab_top"
+    },
+    "exposed_double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/exposed_double_cut_copper_slab_top"
+    },
+    "weathered_double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/weathered_double_cut_copper_slab_top"
+    },
+    "oxidized_double_cut_copper_slab_top": {
+      "textures": "textures/blocks/double_slab/oxidized_double_cut_copper_slab_top"
+    },
+    "waxed_double_cut_copper_slab_carried_top": {
+      "textures": "textures/blocks/double_slab/waxed_double_cut_copper_slab_carried_top"
+    },
+    "waxed_exposed_double_cut_copper_slab_carried_top": {
+      "textures": "textures/blocks/double_slab/waxed_exposed_double_cut_copper_slab_carried_top"
+    },
+    "waxed_weathered_double_cut_copper_slab_carried_top": {
+      "textures": "textures/blocks/double_slab/waxed_weathered_double_cut_copper_slab_carried_top"
+    },
+    "waxed_oxidized_double_cut_copper_slab_carried_top": {
+      "textures": "textures/blocks/double_slab/waxed_oxidized_double_cut_copper_slab_carried_top"
+    },
+    "cobbled_deepslate_double_slab_side": {
+      "textures": "textures/blocks/double_slab/cobbled_deepslate_double_slab_side"
+    },
+    "cobbled_deepslate_double_slab_top": {
+      "textures": "textures/blocks/double_slab/cobbled_deepslate_double_slab_top"
+    },
+    "polished_deepslate_double_slab_side": {
+      "textures": "textures/blocks/double_slab/polished_deepslate_double_slab_side"
+    },
+    "polished_deepslate_double_slab_top": {
+      "textures": "textures/blocks/double_slab/polished_deepslate_double_slab_top"
+    },
+    "deepslate_tile_double_slab_side": {
+      "textures": "textures/blocks/double_slab/deepslate_tile_double_slab_side"
+    },
+    "deepslate_tile_double_slab_top": {
+      "textures": "textures/blocks/double_slab/deepslate_tile_double_slab_top"
+    },
+    "deepslate_brick_double_slab_side": {
+      "textures": "textures/blocks/double_slab/deepslate_brick_double_slab_side"
+    },
+    "deepslate_brick_double_slab_top": {
+      "textures": "textures/blocks/double_slab/deepslate_brick_double_slab_top"
+    },
+    "mud_brick_double_slab_side": {
+      "textures": "textures/blocks/double_slab/mud_brick_double_slab_side"
+    },
+    "mud_brick_double_slab_top": {
+      "textures": "textures/blocks/double_slab/mud_brick_double_slab_top"
+    },
+    "mangrove_double_slab_side": {
+      "textures": "textures/blocks/double_slab/mangrove_double_slab_side"
+    },
+    "mangrove_double_slab_top": {
+      "textures": "textures/blocks/double_slab/mangrove_double_slab_top"
+    },
+    "bamboo_double_slab_side": {
+      "textures": "textures/blocks/double_slab/bamboo_double_slab_side"
+    },
+    "bamboo_double_slab_top": {
+      "textures": "textures/blocks/double_slab/bamboo_double_slab_top"
+    },
+    "bamboo_mosaic_double_slab_side": {
+      "textures": "textures/blocks/double_slab/bamboo_mosaic_double_slab_side"
+    },
+    "bamboo_mosaic_double_slab_top": {
+      "textures": "textures/blocks/double_slab/bamboo_mosaic_double_slab_top"
+    },
+    "cherry_double_slab_side": {
+      "textures": "textures/blocks/double_slab/cherry_double_slab_side"
+    },
+    "cherry_double_slab_top": {
+      "textures": "textures/blocks/double_slab/cherry_double_slab_top"
+    },
+    "tuff_double_slab_side": {
+      "textures": "textures/blocks/double_slab/tuff_double_slab_side"
+    },
+    "tuff_double_slab_top": {
+      "textures": "textures/blocks/double_slab/tuff_double_slab_top"
+    },
+    "polished_tuff_double_slab_side": {
+      "textures": "textures/blocks/double_slab/polished_tuff_double_slab_side"
+    },
+    "polished_tuff_double_slab_top": {
+      "textures": "textures/blocks/double_slab/polished_tuff_double_slab_top"
+    },
+    "tuff_brick_double_slab_side": {
+      "textures": "textures/blocks/double_slab/tuff_brick_double_slab_side"
+    },
+    "tuff_brick_double_slab_top": {
+      "textures": "textures/blocks/double_slab/tuff_brick_double_slab_top"
+    },
+    "sandstone_double_slab_side": {
+      "textures": "textures/blocks/double_slab/sandstone_double_slab_side"
+    },
+    "sandstone_double_slab_top": {
+      "textures": "textures/blocks/double_slab/sandstone_double_slab_top"
+    },
+    "cobblestone_double_slab_side": {
+      "textures": "textures/blocks/double_slab/cobblestone_double_slab_side"
+    },
+    "cobblestone_double_slab_top": {
+      "textures": "textures/blocks/double_slab/cobblestone_double_slab_top"
+    },
+    "petrified_oak_double_slab_side": {
+      "textures": "textures/blocks/double_slab/petrified_oak_double_slab_side"
+    },
+    "petrified_oak_double_slab_top": {
+      "textures": "textures/blocks/double_slab/petrified_oak_double_slab_top"
     }
   }
 }

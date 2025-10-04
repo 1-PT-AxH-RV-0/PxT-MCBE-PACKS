@@ -28,9 +28,10 @@
 - reserved6.png、unknown.png、info\_update.png 和 info\_update2.png 为原版纹理修改，文字的字体为 Minecraft-Seven（两个数据更新方块因为空间不够而做了一些修改）。
 - moving\_block.png 和 piston\_arm\_collision.png 是基于[纹理更新补丁包 by Bilibili@云飞羊Rainvay](https://m.bilibili.com/video/BV1RY4y1M7tP)及原版纹理修改而来。
 - sticky\_piston\_arm\_collision.png 是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的。
-- signs/\* 与 bed.png 取自 Wiki。（手持模型是我自己重做的，因为找不到原版的模型文件）
+- sign/\* 与 bed.png 取自 Wiki。（手持模型是我自己重做的，因为找不到原版的模型文件）
 - candle\_cake/\* 是由原版纹理拼合的。（为了加上蜡烛引线的这个像素点，改为 32px）
 - 红石中继器/比较器是基于[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)的纹理修改的，文字的字体为 Minecraft-Seven（做了一点改动，以避免奇数尺寸的强迫症问题）。
+- double_slab/\* 中部分直接采用了[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)，其余的为我自己基于原版纹理修改的。
 
 ## 关于 pack\_icon.png
 

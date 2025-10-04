@@ -29,4 +29,6 @@ gui.debugStickUI.ops.modifyPosition=Modify Position
 gui.debugStickUI.ops.modifyPositionOffset=Modify Position (Offset)
 gui.debugStickUI.ops.modifyId=Modify ID
 gui.debugStickUI.ops.getItem=Get Item
+gui.debugStickUI.ops.break=Break
+gui.debugStickUI.ops.remove=Remove
 gui.warning=Warning
