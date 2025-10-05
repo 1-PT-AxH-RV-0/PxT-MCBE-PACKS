@@ -32,3 +32,8 @@ gui.debugStickUI.ops.getItem=获取物品
 gui.debugStickUI.ops.break=破坏
 gui.debugStickUI.ops.remove=移除
 gui.warning=警告
+
+commands.ds.setmaxdist.description=设置最大调试距离。
+commands.ds.setmaxdist.toDefault.success=最大调试距离已重置为默认值（生存或冒险：6.25，创造：11.5）。
+commands.ds.setmaxdist.success=最大调试距离已设置为 %s。
+commands.ds.setmaxdist.failure=最大调试距离必须在 1~128 之间。

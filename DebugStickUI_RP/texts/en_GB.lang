@@ -32,3 +32,8 @@ gui.debugStickUI.ops.getItem=Get Item
 gui.debugStickUI.ops.break=Break
 gui.debugStickUI.ops.remove=Remove
 gui.warning=Warning
+
+commands.ds.setmaxdist.description=Set the maximum debug distance.
+commands.ds.setmaxdist.toDefault.success=The maximum debug distance has been reset to the default value (Survival & Adventure: 6.25, Creative: 11.5).
+commands.ds.setmaxdist.success=The maximum debug distance has been set to %s.
+commands.ds.setmaxdist.failure=The maximum debug distance must be between 1 and 128.
