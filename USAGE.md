@@ -94,6 +94,7 @@
 > 「破坏」实际上是执行命令 `/setblock ~ ~ ~ air destroy`，「移除」实际上是直接把方块类型设为空气。
 
 添加以下命令：
+
 `/ds:setmaxdist [maxDistance:float]`
 - 作用：设置射线最大长度（即最大调试距离）。
 - 参数：
