@@ -3,12 +3,12 @@
     "flipbook_texture": "textures/blocks/prismarine_double_slab_side",
     "atlas_tile": "prismarine_double_slab_side",
     "ticks_per_frame": 300,
-    "frames": [ 0, 1, 0, 2, 0, 3, 0, 1, 2, 1, 3, 1, 0, 2, 1, 2, 3, 2, 0, 3, 1, 3 ]
+    "frames": [0, 1, 0, 2, 0, 3, 0, 1, 2, 1, 3, 1, 0, 2, 1, 2, 3, 2, 0, 3, 1, 3]
   },
   {
     "flipbook_texture": "textures/blocks/prismarine_double_slab_top",
     "atlas_tile": "prismarine_double_slab_top",
     "ticks_per_frame": 300,
-    "frames": [ 0, 1, 0, 2, 0, 3, 0, 1, 2, 1, 3, 1, 0, 2, 1, 2, 3, 2, 0, 3, 1, 3 ]
+    "frames": [0, 1, 0, 2, 0, 3, 0, 1, 2, 1, 3, 1, 0, 2, 1, 2, 3, 2, 0, 3, 1, 3]
   }
 ]

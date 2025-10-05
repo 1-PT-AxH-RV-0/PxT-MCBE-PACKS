@@ -99,8 +99,10 @@ const setState = (block, state, value) =>
   block.setPermutation(block.permutation.withState(state, value));
 
 const breakBlock = (block) => {
-  block.dimension.runCommand(`setblock ${block.x} ${block.y} ${block.z} air destroy`);
-}
+  block.dimension.runCommand(
+    `setblock ${block.x} ${block.y} ${block.z} air destroy`
+  );
+};
 
 const debugState = (block, player) => {
   const form = new ModalFormData()
