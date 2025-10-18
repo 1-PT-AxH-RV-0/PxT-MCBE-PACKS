@@ -907,5 +907,17 @@
       "down": "resin_brick_slab_top",
       "side": "resin_brick_slab_side"
     }
+  },
+  "deepslate_tiles": {
+    "isotropic": false,
+    "textures": "deepslate_tile_slab_top"
+  },
+  "deepslate_tile_stairs": {
+    "isotropic": false,
+    "textures": "deepslate_tile_slab_top"
+  },
+  "deepslate_tile_wall": {
+    "isotropic": false,
+    "textures": "deepslate_tile_slab_top"
   }
 }

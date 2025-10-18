@@ -48,6 +48,7 @@ tile.jungle_wall_sign.name=Jungle Wall Sign
 tile.acacia_wall_sign.name=Acacia Wall Sign
 tile.darkoak_wall_sign.name=Dark Oak Wall Sign
 tile.lit_smoker.name=Lit Smoker
+tile.lit_blast_furnace.name=Lit Blast Furnace
 tile.crimson_double_slab.name=Crimson Double Slab
 tile.warped_double_slab.name=Warped Double Slab
 tile.blackstone_double_slab.name=Blackstone Double Slab

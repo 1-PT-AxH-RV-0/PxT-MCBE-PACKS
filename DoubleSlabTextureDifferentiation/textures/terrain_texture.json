@@ -399,6 +399,9 @@
     },
     "resin_brick_slab_top": {
       "textures": "textures/blocks/resin_brick_slab_top"
+    },
+    "cracked_deepslate_tiles": {
+      "textures": "textures/blocks/cracked_deepslate_tiles"
     }
   }
 }
