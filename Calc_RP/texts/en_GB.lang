@@ -1,0 +1,4 @@
+pack.name=Calculator [RP]
+pack.description=Add "math:calc" command to evaluate mathematical expressions. §7§oby: -PT_AxH_RV-
+
+Command.math.calc.description=Evaluate a mathematical expression.

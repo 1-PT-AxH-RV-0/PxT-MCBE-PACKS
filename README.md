@@ -9,6 +9,7 @@
 - BlockTextureSupplement：为一些意外地使用占位符纹理或默认纹理的方块，如未知（minecraft\:unknown）、数据更新方块（minecraft\:info\_update）、活塞头（minecraft\:piston\_arm\_collision）等添加了纹理，以便于区分。 
 - DoubleSlabTextureDifferentiation：为双层台阶修改了侧面纹理，以便于区分。
 - TechnicalItemsAndBlocks：把一些技术性方块加入到了创造模式物品栏的「物品」分类中，以物品组的形式放在最后。
+- Calc：添加 `/math:calc` 命令计算数学表达式。
 - GetBlockStates：（测试用）获取所有方块的方块状态及其可用值，并以 JSON 字符串的格式输出至控制台。
 
 行为包的使用方法详见 [USAGE.md](USAGE.md)。
@@ -43,4 +44,5 @@
 - BritishEnglishSupplement、DoubleSlabTextureDifferentiation 和 BlockTextureSupplement 的 pack\_icon.png 参考[方块标准视图制作](https://zh.minecraft.wiki/w/Help:标准视图#使用Blockbench)使用 BlockBench 制作。其中 BlockTextureSupplement 中的方块是「涂蜡的锈蚀切制铜双层台阶」（MCBE 中 ID 最长的方块），使用的纹理为[原版优化 by Bilibili@wtitemilk](https://m.bilibili.com/video/BV1EgYQz5E7a)。
 - ItemLoreEditor 和 InventoryPresets 的 pack\_icon.png 使用 [MC 标题生成器](https://ewanhowell.com/plugins/minecraft-title-generator).
 - DebugStickUI 的 pack\_icon.png 是原版木棍纹理的 64px 版本。
+- Calc 的 pack\_icon.png 基于铁块和下界合金块修改，文字字体参考 Unifont。
 - GetBlockStates 因为不是正式包所以没有 pack\_icon.png。

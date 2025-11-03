@@ -100,3 +100,25 @@
 - 参数：
   - maxDistance: 射线最大长度。不传递时效果为重置回默认值（生存或冒险为 6.25 方块，创造为 11.5 方块）。
 - 备注：权限等级为 3（仅**主机**可执行，**命令方块无法执行**），且需要开启作弊。
+
+## Calc
+
+支持版本：1.21.100+
+
+> 注：可获得成就。
+
+功能：
+
+添加以下命令：
+
+`/math:calc [expression:string]`
+- 作用：计算数学表达式。
+- 参数：
+  - expression: 表达式。
+- 备注：权限等级为 0，且**不需要**开启作弊。
+
+此包基于 mathjs，所以表达式要符合 mathjs 的格式。
+
+数学函数/常数除 mathjs 自带的外，还有 arcsin(asin)、arsinh(asinh)、π(pi) 等别名。
+
+所以支持的数学函数请见[mathjs文档](https://mathjs.org/docs/reference/functions.html#arithmetic-functions)中 `arithmetic-functions` 一节及之后的所有内容。
