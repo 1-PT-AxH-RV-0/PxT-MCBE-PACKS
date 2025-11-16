@@ -14,11 +14,12 @@
 
 行为包的使用方法详见 [USAGE.md](USAGE.md)。
 
-## 文件夹命名规范
+## 文件命名规范
 
 1. 一个 pack 作一个文件夹，文件夹名即 make 生成的压缩包的文件名；
 2. 若有互相依赖的 pack，则生成的压缩包文件名为第一个检测到的文件夹名的下划线之前的部分（e.g. ItemLoreEditor\_RP → ItemLoreEditor）；
 3. \_RP 后缀表示资源包，\_BP 则是行为包。
+4. SAPI 的入口 JS 必须是 `index.js`。
 
 ## Make
 

@@ -1,0 +1,103 @@
+pack.name=Entity Debug Stick UI [RP]
+pack.description=A entity debug stick script with UI interface. §7§oby: -PT_AxH_RV-
+
+item.eds:entity_debug_stick=§dDebug Stick For Entity§r
+
+gui.eds.percent.format=%s percent
+
+gui.eds.title=Select An Action
+gui.eds.info=Get Info
+gui.eds.kill=Kill
+gui.eds.remove=Remove
+gui.eds.tp=Teleport
+gui.eds.editInv=Edit Inventory
+gui.eds.setAttributes=Set Attributes
+gui.eds.applyDamage=Apply Damage
+gui.eds.applyImpulse=Apply Impulse
+gui.eds.extinguishFire=Extinguish Fire
+gui.eds.runCommand=Run Command
+
+gui.eds.info.title=Entity Info
+gui.eds.info.typeId=§bType ID: §r
+gui.eds.info.localisedName=§bLocalised Name: §r
+gui.eds.info.position=§bPosition: §r
+gui.eds.info.rotation=§bRotation: §r
+gui.eds.info.velocity=§bVelocity: §r
+gui.eds.info.nameTag=§bName Tag: §r
+gui.eds.info.id=§bID: §r
+gui.eds.info.playerName=§bPlayer Name: §r
+gui.eds.info.playerPlatformType=§bPlayer Platform Type: §r
+gui.eds.info.permissionLevel=§bPermission Level: §r
+gui.eds.info.level=§bLevel: §r
+gui.eds.info.tags=§bTags: §r
+gui.eds.info.health=§bHealth: §r
+gui.eds.info.hungerAndSaturationAndExhaustion=§bHunger / Saturation / Exhaustion: §r
+gui.eds.info.fireTime=§bFire Time: §r
+gui.eds.info.movements=§bMovements(General / Lava / Underwater): §r
+gui.eds.info.itemTypeId=§bItem Type ID: §r
+gui.eds.info.itemLocalisedName=§bItem Localised Name: §r
+gui.eds.info.itemAmount=§bItem Amount: §r
+gui.eds.info.typeFamilies=§bType Families: §r
+gui.eds.info.armorLevel=§bArmor Level: §r
+gui.eds.info.toughnessLevel=§bToughness Level: §r
+gui.eds.info.head=§bHead: §r
+gui.eds.info.chest=§bChest: §r
+gui.eds.info.legs=§bLegs: §r
+gui.eds.info.feet=§bFeet: §r
+gui.eds.info.mainhand=§bMainhand: §r
+gui.eds.info.offhand=§bOffhand: §r
+gui.eds.info.effects=§bEffects: §r
+gui.eds.info.none=None
+
+gui.eds.tp.title=Teleport Entity
+gui.eds.tp.offset=Use Offset
+
+gui.eds.editInv.title=Select A Slot To Edit
+gui.eds.editInv.playerInv.seleItemToReplace=Select An Item To Replace
+gui.eds.editInv.playerInv.seleItemToSwap=Select An Item To Swap
+gui.eds.editInv.emptySlot=§5<Empty>§r
+gui.eds.editInv.delete=Delete
+gui.eds.editInv.take=Take
+gui.eds.editInv.get=Get
+gui.eds.editInv.replace=Replace
+gui.eds.editInv.swap=Swap
+
+gui.eds.setAttr.title=Set Attributes
+eds.attrName.health=Health
+eds.attrName.movement=Movement
+eds.attrName.lava_movement=Lava Movement
+eds.attrName.underwater_movement=Underwater Movement
+eds.attrName.hunger=Hunger
+eds.attrName.saturation=Saturation
+eds.attrName.exhaustion=Exhaustion
+
+gui.eds.applyDamage.title=Select A Damage Method
+gui.eds.applyDamage.byProj=By Projectiles
+gui.eds.applyDamage.general=General
+gui.eds.applyDamage.amount=Amount
+gui.eds.applyDamage.damagingEntity=Damaging Entity
+gui.eds.applyDamage.damagingProjectile=Damaging Projectile
+gui.eds.applyDamage.cause=Damage Cause
+gui.eds.applyDamage.damageOptions=Damage Options
+gui.eds.applyDamage.entityIdPlaceholder=Entity ID
+gui.eds.applyDamage.getIdHelp=Can view the entity ID in the "ID" field under the "Get Info" option, or use the command "/eds:getid" to directly view and copy the entity ID.
+
+gui.eds.applyImpulse.title=Apply Impulse
+
+gui.eds.runCommand.title=Run Command
+gui.eds.runCommand.label=Command
+
+command.eds.getid.description=Get the id of an entity.
+
+gui.error=Error
+eds.error.general.entityInvalid=Entity is invalid or has been removed.
+eds.error.remove.cannotRemove=Player cannot be removed.
+eds.error.teleport.invalidCoordinates=Invalid coordinate input, please enter valid numbers.
+eds.error.inventory.noInventoryComponent=This entity does not have an inventory component and cannot edit the inventory.
+eds.error.attributes.noAttributesComponent=This entity does not have editable attribute components.
+eds.error.attributes.invalidValue=Attribute value "%s" is invalid, please enter a valid number.
+eds.error.attributes.valueOutOfRange=Attribute value %s is out of valid range %s ~%s.
+eds.error.damage.invalidDamageAmount=Damage amount is invalid, please enter a valid positive number.
+eds.error.damage.invalidProjectile=Invalid damaging projectile.
+eds.error.impulse.invalidVector=Force vector is invalid, please enter valid numbers.
+eds.error.command.emptyCommand=Command cannot be empty.
